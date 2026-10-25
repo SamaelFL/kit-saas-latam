@@ -1,3 +1,5 @@
+<img src="docs/cabecera.svg" alt="Kit SaaS LATAM: skills para agentes con lo que nadie te explica al lanzar un SaaS en México. Incluye legal-mx, pagos-mx, supabase-rls y seguridad-saas." width="100%">
+
 # Kit SaaS LATAM
 
 Skills para agentes con lo que nadie te explica cuando lanzas un SaaS en México:
