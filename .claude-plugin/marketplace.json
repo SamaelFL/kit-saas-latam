@@ -1,0 +1,11 @@
+{
+  "name": "kit-saas-latam",
+  "owner": { "name": "Ismael Florean", "url": "https://github.com/SamaelFL" },
+  "plugins": [
+    {
+      "name": "kit-saas-latam",
+      "source": "./",
+      "description": "Skills para lanzar un SaaS en México: LFPDPPP y CFDI, cobros con Stripe y Mercado Pago, RLS en Supabase y seguridad."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kit-saas-latam",
+  "version": "0.1.0",
+  "description": "Skills para lanzar un SaaS en México: LFPDPPP y CFDI, cobros con Stripe y Mercado Pago, RLS en Supabase y seguridad.",
+  "author": { "name": "Ismael Florean", "url": "https://github.com/SamaelFL" },
+  "homepage": "https://github.com/SamaelFL/kit-saas-latam",
+  "repository": "https://github.com/SamaelFL/kit-saas-latam",
+  "license": "MIT",
+  "keywords": ["mexico", "latam", "saas", "supabase", "stripe", "mercadopago", "lfpdppp", "cfdi", "security"]
+}
